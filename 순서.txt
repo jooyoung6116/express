@@ -5,4 +5,4 @@ npm i pm2
 npm run dev
 
 npm i -g pm2 -> 전역 설치 pm2
-npx -> node_modules에 설치된 명령어를 실행!!!!!
+npx -> node_modules에 설치된 명령어를 실행!!!!!!
